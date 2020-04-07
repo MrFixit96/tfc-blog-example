@@ -1,0 +1,11 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.tfstate.lock.info
+*.tfvars
+
+# Directories
+.terraform/
+
+# SSH Keys
+*.pem
